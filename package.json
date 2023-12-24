@@ -1,0 +1,24 @@
+{
+  "name": "cc-wc",
+  "version": "1.0.0",
+  "description": "Coding Challenge: https://codingchallenges.fyi/challenges/challenge-wc\r **Written in:** C++",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akbhagasra/cc-WC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akbhagasra/cc-WC/issues"
+  },
+  "homepage": "https://github.com/akbhagasra/cc-WC#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  }
+}
