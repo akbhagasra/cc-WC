@@ -11,7 +11,7 @@ Coding Challenge: https://codingchallenges.fyi/challenges/challenge-wc
 
 - Clone the repository
 - Go to root project folder and run command `npm i`
-- Run the program with command `node indec.js`
+- Run the program with command `node index.js`
 - Provide test command or command `exit` to stop the program
 
 ## Allowed command line options
